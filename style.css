@@ -383,7 +383,8 @@
 
 
       .java{
-        margin-left: 50%;
+        
+        justify-content: center;
         width: 500px;
         height: 100px;
         border-radius: 100px;
